@@ -4,7 +4,7 @@ This repository contains an **AI/ML project** focused on predicting the likeliho
 It includes datasets, preprocessing steps, visualizations, and model-building workflows.
 
 
-## 📁 Repository Structure
+## 📁 Repository Structure 
 
 ├── AI_ML_PROJECT.ipynb     
 ├── heart disease.csv       
